@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian Artea
 - 👀 I design and code websites/apps. It's a hobby of mine.
-- 🌱 I’m currently learning React, NextJS, Tailwind CSS, JavaScript, Firebase 9 and going back to basics.
+- 🌱 I’m currently learning React, NextJS, Tailwind CSS, JavaScript, Firebase 9 and going back to basics and tearing everything apart.
 - 📫 How to reach me: support@expertdesign.cc
 
 <!---
